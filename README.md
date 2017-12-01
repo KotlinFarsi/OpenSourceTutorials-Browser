@@ -1,2 +1,2 @@
 # OpenSourceTutorials-Browser
-Fullstack Web Developing with Kotlin Lang (Open Source Tutorials)
+Fullstack Web Developing With Kotlin/JS (Open Source Tutorials)
